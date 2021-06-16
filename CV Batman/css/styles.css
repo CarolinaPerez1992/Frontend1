@@ -1,0 +1,39 @@
+body {background-color: #E5E5E5;
+font-family: 'Times New Roman';
+}
+header { text-align: center;
+}
+h1 {font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+main{color: #005677;
+    background-color: white;
+}
+span {font-weight: bold;
+    font-weight: 700;
+    font-style: italic;
+    font-Size: 15px;
+    line-height: 12,7px;
+}
+dt {font-weight: bold;
+font-style: normal;
+font-size: 15px;
+line-height: 84.69%;
+}
+dl {;font-style: normal;
+    font-size: 15px;
+    line-height: 16,68px;
+}
+h2 {background-color: #C4C4C4;
+}
+ul {color: black;
+}
+footer {text-align: center;
+    background-color: #005677;
+    text-decoration: none;
+}
